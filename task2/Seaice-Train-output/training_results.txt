@@ -1,0 +1,32 @@
+U-Net 海冰语义分割训练结果
+==================================================
+训练轮数: 20
+批次大小: 1
+训练样本数: 28
+测试样本数: 12
+训练耗时: 23.54 秒
+最终测试损失: 0.1604
+最终测试准确率: 0.9217
+==================================================
+
+训练历史:
+Epoch 1: loss=0.9280, acc=0.6688, val_loss=0.6054, val_acc=0.7924
+Epoch 2: loss=0.6201, acc=0.7868, val_loss=0.5186, val_acc=0.7924
+Epoch 3: loss=0.4391, acc=0.8136, val_loss=0.5688, val_acc=0.5909
+Epoch 4: loss=0.3431, acc=0.8745, val_loss=0.2703, val_acc=0.9023
+Epoch 5: loss=0.2171, acc=0.9038, val_loss=0.2833, val_acc=0.9039
+Epoch 6: loss=0.1837, acc=0.9155, val_loss=0.3902, val_acc=0.8110
+Epoch 7: loss=0.2844, acc=0.8783, val_loss=0.2292, val_acc=0.9181
+Epoch 8: loss=0.1901, acc=0.9205, val_loss=0.2090, val_acc=0.9005
+Epoch 9: loss=0.1584, acc=0.9304, val_loss=0.1930, val_acc=0.9247
+Epoch 10: loss=0.1610, acc=0.9274, val_loss=0.3112, val_acc=0.8844
+Epoch 11: loss=0.1464, acc=0.9372, val_loss=0.2349, val_acc=0.8792
+Epoch 12: loss=0.1551, acc=0.9306, val_loss=0.3071, val_acc=0.8457
+Epoch 13: loss=0.1369, acc=0.9402, val_loss=0.1682, val_acc=0.9304
+Epoch 14: loss=0.1337, acc=0.9437, val_loss=0.1299, val_acc=0.9457
+Epoch 15: loss=0.2248, acc=0.8885, val_loss=0.2257, val_acc=0.8777
+Epoch 16: loss=0.1517, acc=0.9506, val_loss=0.1614, val_acc=0.9373
+Epoch 17: loss=0.1404, acc=0.9379, val_loss=0.1649, val_acc=0.9328
+Epoch 18: loss=0.1056, acc=0.9600, val_loss=0.1211, val_acc=0.9497
+Epoch 19: loss=0.0831, acc=0.9657, val_loss=0.1320, val_acc=0.9441
+Epoch 20: loss=0.1027, acc=0.9563, val_loss=0.1604, val_acc=0.9217
